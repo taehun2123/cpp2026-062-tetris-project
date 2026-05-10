@@ -1,0 +1,7 @@
+-std=c++23
+-Wall
+-Wextra
+-I/opt/homebrew/include
+-I/opt/homebrew/include/c++/15
+-I/opt/homebrew/include/c++/15/aarch64-apple-darwin25
+

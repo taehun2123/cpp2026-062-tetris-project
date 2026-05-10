@@ -1,0 +1,20 @@
+# VS Code
+.vscode/
+
+# IDE & Editor
+.clangd/
+
+# Agents & AI
+.agents/
+.gemini/
+
+# Build artifacts
+*.o
+*.out
+*.app
+build/
+bin/
+
+# Excluded documents
+tetris_architecture.md
+002.zip
